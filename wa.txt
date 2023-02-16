@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bano qabil</title>
+
+<body>
+<h1>Hello wania</h1>
+<h2>Hello Areeha
+</body>
+</html>
